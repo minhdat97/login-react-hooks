@@ -27,7 +27,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-git clone https://github.com/samie820/hooks-state-management.git .
+git clone https://github.com/minhdat97/login-react-hooks.git .
 ```
 
 - Install all the project's dependencies:
